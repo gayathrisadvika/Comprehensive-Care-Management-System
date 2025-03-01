@@ -40,11 +40,10 @@ Comprehensive-Care-Management-System/
 ### **1️⃣ Clone the Repository**
 ```bash
 git clone https://github.com/gayathrisadvika/Comprehensive-Care-Management-System.git
-cd Comprehensive-Care-Management-System
-### **2️⃣ Install Dependencies**
-Ensure Node.js is installed, then execute:
-```bash
-npm install
+cd Comprehensive-Care-Management-System.<br>
+#### **2️⃣ Install Dependencies**
+
+
 
 
 
