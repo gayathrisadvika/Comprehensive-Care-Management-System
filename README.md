@@ -1,2 +1,25 @@
-# Comprehensive-Care-Management-System
-Designed and implemented a secure patient and doctor data management system, ensuring seamless healthcare operations. Developed an automated patient-doctor mapping algorithm, reducing manual assignment time by 50\%. Integrated a real-time visit tracking system, enhancing patient record accuracy by 30\%. Created a searchable database to retrieve records by patient ID, doctor ID, or disease name, improving data accessibility by 60\%.
+🚑 Comprehensive Care Management System
+📌 Overview# 🏥 **Comprehensive Care Management System**
+The **Comprehensive Care Management System (CCMS)** is a robust healthcare management solution designed to optimize patient care through efficient data management and seamless doctor-patient interactions. The system provides:  
+✔️ **Automated Patient-Doctor Mapping** – Reducing manual assignment overhead.  
+✔️ **Real-Time Visit Tracking** – Ensuring accurate and up-to-date patient records.  
+✔️ **Advanced Search Capabilities** – Enabling quick retrieval of patient and doctor information.  
+
+## **📂 Project Structure**
+Comprehensive-Care-Management-System/  
+│── public/                   # Static assets (CSS, JavaScript, Images)  
+│── views/                    # EJS templates for dynamic UI rendering  
+│   ├── disease.ejs  
+│   ├── doctorDetails.ejs  
+│   ├── doctorForm.ejs  
+│   ├── doctors.ejs  
+│   ├── home.ejs  
+│   ├── patientDetails.ejs  
+│   ├── patientForm.ejs  
+│   ├── patients.ejs  
+│   ├── patientsByDisease.ejs  
+│   ├── success.ejs  
+│── app.js                     # Main server-side application logic  
+│── package.json               # Node.js dependencies & configuration  
+│── README.md                  # Project documentation (this file)  
+📊 Sample Output
