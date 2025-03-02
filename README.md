@@ -22,7 +22,7 @@ Comprehensive-Care-Management-System/
 │── app.js                     # Main server-side application logic  
 │── package.json               # Node.js dependencies & configuration  
 │── README.md                  # Project documentation (this file)  
-## **📊 Sample Output **
+## 📊 Sample Output
 ![image](https://github.com/user-attachments/assets/71485c96-087a-441b-8ee3-7058a0b7882c)
 ![image](https://github.com/user-attachments/assets/fd3d52ed-a9d6-47ba-a7e5-ffd1ae780c47)
 ![image](https://github.com/user-attachments/assets/4ed4f6e0-5d5d-4653-b153-a44ee888301f)
@@ -34,7 +34,10 @@ Comprehensive-Care-Management-System/
 
 **Backend:**  
 - **Node.js & Express.js** – Server-side logic and API management.  
-- **MongoDB (Mongoose ORM)** – Secure and scalable database for patient and doctor records.  
+- **MongoDB (Mongoose ORM)** – Secure and scalable database for patient and doctor records.
+
+
+
 
 
 
