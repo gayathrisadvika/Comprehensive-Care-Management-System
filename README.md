@@ -36,12 +36,7 @@ Comprehensive-Care-Management-System/
 - **Node.js & Express.js** – Server-side logic and API management.  
 - **MongoDB (Mongoose ORM)** – Secure and scalable database for patient and doctor records.  
 
-## **🚀 Installation & Setup**
-### **1️⃣ Clone the Repository**
-```bash
-git clone https://github.com/gayathrisadvika/Comprehensive-Care-Management-System.git
-cd Comprehensive-Care-Management-System.<br>
-#### **2️⃣ Install Dependencies**
+
 
 
 
